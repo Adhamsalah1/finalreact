@@ -1,0 +1,20 @@
+.container{
+    text-align: center;
+}
+
+img{
+    width: 80%;
+}
+#demo{
+   margin-top:130px;
+}
+form{
+    width: 70%;
+    margin-left: 10%;
+}
+#navbarText{
+    text-decoration: ;
+    color: black;
+    font-size: 18px;
+    font-family: sans-serif;
+}
